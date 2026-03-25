@@ -116,7 +116,7 @@ Vous pouvez créer des Agents dans votre Github Copilot, lors de la sélection d
 
 <details>
 <summary>IntelliJ</summary>
-Sur intellij, après avoir cliqué sur "Configure Agents", la fenêtre de settings de Github Copilot s'ouvre
+Sur intellij, après avoir cliqué sur "Configure Agents", la fenêtre de settings de Github Copilot s'ouvre <br/>
 En bas de cette fenêtre, dans le bloc Chat Agents, cliquez sur "Workspace"
 
 ![alt text](../../docs/images/intellij-agents.png)
