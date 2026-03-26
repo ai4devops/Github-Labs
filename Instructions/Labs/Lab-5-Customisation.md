@@ -96,13 +96,15 @@ Global : Pour la totalité de votre intellij
 
 <br/>
 
-```text
-Note : Il est tout aussi possible de demander à l'IA d'écrire un fichier d'instruction pour vous en lui donnnant les éléments voulues
-Ouvrez le fichier Lab-4\src\main-exemple.java dans un onglet et fermez les autres, puis dans un nouveau Github Copilot Chat, écrivez le prompt suivant
-"write an instruction file for this code, with the following" 
-Github Copilot vous écrira ce fichier et, s'il considère cela pertinent et que vous l'avez envoyé dans un mode qui permet l'edit (Mode Edit ou Agent), pourra même vous le créer dans votre projet
-```
 
+Note : Il est tout aussi possible de demander à l'IA d'écrire un fichier d'instruction pour vous en lui donnnant les éléments voulues <br/>
+Ouvrez le fichier Lab-4\src\main-exemple.java dans un onglet et fermez les autres, puis dans un nouveau Github Copilot Chat, écrivez le prompt suivant<br/>
+"write an instruction file for this code, with the following" <br/>
+Github Copilot vous écrira ce fichier et, s'il considère cela pertinent et que vous l'avez envoyé dans un mode qui permet l'edit (Mode Edit ou Agent), pourra même vous le créer dans votre projet<br/>
+
+```text
+Ajouter le fichier lab-5\src\main.java dans votre Github Copilot puis demandez lui de vous créer un fichier instruction.md
+```
 ## Agent custom
 Les Agents Custom sont des outils qui permettent de réaliser des actions ou de communiquer avec d'autres Agents pour réaliser des actions, ces fichiers sont à placer dans votre fichier sous le nom ```agents\*.agent.md```
 Utilisez les fichers AGENTS.md pour :
