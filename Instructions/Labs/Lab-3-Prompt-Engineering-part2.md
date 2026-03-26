@@ -34,6 +34,7 @@ Contraintes : réponse concise, en français, et chaque hypothèse doit être v�
 De la même manière que l'auto-prompt, vous avez la possibilité de demander à l'IA de vous fournir un prompt pour vous donner un plan
 ```text
 Demandez à votre chat en mode Plan de vous donner un plan pour faire une review Java/Spring
+Note: Si vous avez une version antérieur de Github Copilot et n'avait pas le mode Plan, vous pouvez utiliser le mode Ask en ajoutant la phrase "Rédige moi un plan pour ..."
 
 Récupérez le résultat donné et coller dans le fichier Lab-3\src\lab3-RAG.txt
 ```
