@@ -61,6 +61,7 @@ A vous de tester
  « Crée un service REST complet pour gérer des utilisateurs avec Spring Boot : entité, repository, service et contrôleur. »
  « Ajoute également une étape pour les tests unitaires du service. »
  Testez d'autres prompt à votre guise
+ Note: Si vous avez une version antérieur de Github Copilot et n'avait pas le mode Plan, vous pouvez utiliser le mode Ask en ajoutant la phrase "Rédige moi un plan pour ..."
 ```
 
 ---
