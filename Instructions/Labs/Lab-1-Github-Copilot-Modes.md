@@ -47,6 +47,15 @@ A vous de tester
 Validez le prompt
 
 ```
+
+### New session & Historique
+```text
+Tout au long de votre utilisation sur Github Copilot, vous aurez beauoup de sujet différents à demander à votre Copilot Chat, dans ce cas de figure, il est fortement conseillé de créer une nouvelle session de discussion avec votre chat pour lui poser une nouvelle question, sous peine que votre IA réponde à côté de votre demande car elle aura pris en compte la conversation que vous aviez avec elle
+Afin de créer une nouvelle session de discussion, il vous suffit cliquer sur le "+" en haut à droite de la fenêtre Github Copilot Chat
+Note: Il n'y a absolument aucune restriction à créer une nouvelle session, aucun tarif suppléementaire, aucune conséquence à créer une nouvelle session, donc n'hésitez pas à en créer pour tout nouveau sujet que vous voudriez avoir avec votre chat
+Si vous voulez revenir en arrière et revoir/continuer une conversation précédente que vous aviez avec votre IA, l'icone d'à côté vous permet d'ouvrir l'historique de vos conversations
+Testez ces deux fonctionnalités
+```
 ---
 
 ## Plan mode
