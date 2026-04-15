@@ -144,6 +144,6 @@ Liste de course:
 - 3x Casque à 13€
 - 1x Camera à 24€
 
-Abonnement client : PREMIUM
+Abonnement client : STANDARD
 Promo : SPECIAL
 ```
