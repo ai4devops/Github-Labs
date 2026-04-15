@@ -14,7 +14,7 @@
 
 ## Contexte
 
-Vous rejoignez une équipe qui maintient un petit calculateur de panier.
+Vous rejoignez une équipe qui maintient un petit calculateur de panier. <br/>
 Le projet est situé dans le dossier lab-5.
 Le code fonctionne "à peu près", mais plusieurs règles métier sont mal gérées :
 
